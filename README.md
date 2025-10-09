@@ -10,30 +10,10 @@
 
 ---
 
-### My Tech Stack & Tools
+### 🛠️ My Tech Stack & Tools
 
 <p align="center">
-  <a href="https://developer.apple.com/swift/">
-    <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
-  </a>
-  <a href="https://developer.apple.com/xcode/">
-    <img src="https://img.shields.io/badge/xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode">
-  </a>
-  <a href="https://reactnative.dev/">
-    <img src="https://img.shields.io/badge/react_native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  </a>
-  <a href="https.dotnet.microsoft.com/apps/aspnet">
-    <img src="https://img.shields.io/badge/asp.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET"/>
-  </a>
-  <a href="https://www.microsoft.com/sql-server">
-    <img src="https://img.shields.io/badge/microsoft_sql_server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server"/>
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  </a>
+  <strong>Swift &nbsp;&nbsp;|&nbsp;&nbsp; Xcode &nbsp;&nbsp;|&nbsp;&nbsp; React Native &nbsp;&nbsp;|&nbsp;&nbsp; Python &nbsp;&nbsp;|&nbsp;&nbsp; ASP.NET &nbsp;&nbsp;|&nbsp;&nbsp; Microsoft SQL Server &nbsp;&nbsp;|&nbsp;&nbsp; Git</strong>
 </p>
 
 ---
