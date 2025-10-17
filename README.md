@@ -13,7 +13,7 @@
 <h3 align="center">My Tech Stack & Tools</h3>
 
 <p align="center">
-  <strong>Swift &nbsp;&nbsp;|&nbsp;&nbsp; Xcode &nbsp;&nbsp;|&nbsp;&nbsp; React Native &nbsp;&nbsp;|&nbsp;&nbsp; Python &nbsp;&nbsp;|&nbsp;&nbsp; ASP.NET &nbsp;&nbsp;|&nbsp;&nbsp; Microsoft SQL Server &nbsp;&nbsp;|&nbsp;&nbsp; Git</strong>
+  <strong>Swift &nbsp;&nbsp;|&nbsp;&nbsp; Xcode &nbsp;&nbsp;|&nbsp;&nbsp; React Native &nbsp;&nbsp;|&nbsp;&nbsp; Python &nbsp;&nbsp;|&nbsp;&nbsp; ASP.NET &nbsp;&nbsp;|&nbsp;&nbsp; Git &nbsp;&nbsp;|&nbsp;&nbsp; Microsoft SQL Server</strong>
 </p>
 
 ---
